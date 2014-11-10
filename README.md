@@ -1,4 +1,5 @@
 glim-docs
 =========
 
-glim documentation on readme.io http://glim.readme.io
+glim documentation on readme.io
+[http://glim.readme.io](http://glim.readme.io)
